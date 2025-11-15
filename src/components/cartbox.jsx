@@ -1,5 +1,4 @@
-// import { useState } from "react"
-// import { useRef } from "react"
+
 
 function CartBox({isCartOpen, itemPicked, cartActive, setCartActive}){
 
